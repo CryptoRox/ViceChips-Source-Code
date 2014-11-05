@@ -1,0 +1,9 @@
+Building ViceChips
+
+See doc/readme-qt.rst for instructions on building ViceChips QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ViceChips.
+
+See doc/build-*.txt for instructions on building ViceChipsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ViceChips.
